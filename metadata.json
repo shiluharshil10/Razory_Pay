@@ -1,0 +1,6 @@
+{
+  "name": "Simple Commerce with Payment Recovery Agent",
+  "description": "A clean e-commerce store with an autonomous backend AI agent that detects failed payment reports, resolves checkout issues, and dispatches apology emails with one-click payment resume links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
